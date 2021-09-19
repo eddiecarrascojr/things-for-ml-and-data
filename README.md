@@ -16,3 +16,6 @@ Doesn't matter if you like Mac, Windows or Linux all these choices work with any
 ```bash
 pip install requirement.txt
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
