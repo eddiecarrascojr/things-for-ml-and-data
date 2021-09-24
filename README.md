@@ -6,6 +6,7 @@ Doesn't matter if you like Mac, Windows or Linux all these choices work with any
 - Install the latest version of [python](https://www.python.org/downloads/)
 - Get [git](https://git-scm.com/)
 - Use an IDE [Pycharm](https://www.jetbrains.com/pycharm/) or [Visual Studio](https://code.visualstudio.com/download) works really well.
+- Install the lastest version of [java](https://www.java.com/download/ie_manual.jsp).
 - Best text editor [Atom](https://atom.io/) 
 - Optional
 - - [Docker](https://docs.docker.com/get-docker/)
