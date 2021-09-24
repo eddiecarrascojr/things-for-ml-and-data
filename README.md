@@ -4,7 +4,7 @@ A repo of all things needed to get started with for machine learning, data, soft
 ## Software Dependnecies
 Doesn't matter if you like Mac, Windows or Linux all these choices work with any OS.
 - Install the latest version of [python](https://www.python.org/downloads/)
-- Get [git](https://git-scm.com/)
+- Get [git](https://git-scm.com/) for SVC and pushing code to github
 - Use an IDE [Pycharm](https://www.jetbrains.com/pycharm/) or [Visual Studio](https://code.visualstudio.com/download) works really well.
 - Install the lastest version of [java](https://www.java.com/download/ie_manual.jsp).
 - Best text editor [Atom](https://atom.io/) 
