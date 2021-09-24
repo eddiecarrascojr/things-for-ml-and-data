@@ -11,6 +11,7 @@ Doesn't matter if you like Mac, Windows or Linux all these choices work with any
 - - [Docker](https://docs.docker.com/get-docker/)
 - - [Anaconda](https://www.anaconda.com/products/individual-d)
 - - [Julia](https://julialang.org/) is slowly becoming a programming langueage favorite. 
+- - [IntelliJ](https://www.jetbrains.com/idea/) for Java Development ;)
 
 ## Installation
 ```bash
